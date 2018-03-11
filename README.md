@@ -1,5 +1,6 @@
 # 简介
 基于opencv和51单片机的微信跳一跳全自动物理辅助，适用于Android+Windows平台，硬件部分由51单片机实现。  
+![](/system_2.jpg)  
 # python环境及主要使用的库
 * python 3.6 (Anaconda)  
 - numpy 1.14.0  
